@@ -1,4 +1,4 @@
-# 💫 Hello! I am Marlon Torres
+# Hello! I am Marlon Torres
 👨‍💻 Sobre mí<br>Soy Desarrollador de Aplicaciones Web, recién graduado en un Ciclo Formativo de Grado Superior en desarrollo de aplicaciones web. Apasionado por la tecnología y el desarrollo de software, siempre busco aprender nuevas tecnologías y metodologías para mejorar mis habilidades.<br><br>Me considero una persona comprometida, detallista y colaborativa, con especial interés en el desarrollo frontend y backend. Disfruto trabajando en equipo, resolviendo problemas de forma eficiente y creando código limpio y mantenible.<br><br>Mi objetivo es seguir creciendo profesionalmente, aportando valor en cada proyecto y enfrentándome a nuevos retos que me permitan evolucionar como programador.
 
 
